@@ -36,3 +36,5 @@ function footerComponent(elemento) {
 
   elemento.appendChild(footerComponentElemento);
 }
+
+//prueba
